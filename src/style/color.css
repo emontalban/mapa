@@ -1,0 +1,44 @@
+
+
+.marker-cluster-red div {
+    width: 35px;
+    height: 35px;
+    margin-left: 5px;
+    margin-top: 5px;
+    text-align: center;
+    border-radius: 50%;
+    font: 12px "Helvetica Neue", Arial, Helvetica, sans-serif;
+    background-color: rgba(255, 0, 0, 0.9);
+    color: white;
+	border: 8px solid rgb(223, 137, 137); 
+    line-height: 30px; 
+	box-shadow: 0 0 20px;
+
+}
+.marker-cluster-green div {
+    width: 35px;
+    height: 35px;
+    margin-left: 5px;
+    margin-top: 5px;
+    text-align: center;
+    border-radius: 50%;
+    font: 12px "Helvetica Neue", Arial, Helvetica, sans-serif;
+    background-color: rgba(0, 255, 55, 0.9);
+    color: black;
+	border: 8px solid rgb(164, 223, 137); 
+    line-height: 30px; 
+	box-shadow: 0 0 20px;
+
+}
+
+
+
+	
+	
+
+	
+
+	
+
+
+		

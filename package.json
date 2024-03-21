@@ -9,6 +9,9 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "leaflet-defaulticon-compatibility": "^0.1.2",
+    "leaflet.awesome-markers": "^2.0.5",
+    "leaflet.markercluster": "^1.5.3",
     "vue": "^3.2.13",
     "vue-router": "^4.0.3"
   },
